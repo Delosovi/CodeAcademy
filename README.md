@@ -1,3 +1,3 @@
 # CodeAcademy
 
-Few code's I created while on CodeAcademy
+Some project's created while on CodeAcademy
